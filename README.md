@@ -22,11 +22,16 @@ The insights brought to light by this application can be used for:
 
 Final result of the project is an interactive map that indicates if a block contains any PV solar panels in it, sample images are found below:
 
-<img width="354" alt="zoom5" src="https://github.com/mohammad-awad-ds/Solar_Panel_Detection_Mapping_Satalite_YOLOv5/assets/64756947/06e867c3-7ecb-4f55-bb98-446917fbe89c">
+| ![zoom5](https://github.com/mohammad-awad-ds/Solar_Panel_Detection_Mapping_Satalite_YOLOv5/assets/64756947/06e867c3-7ecb-4f55-bb98-446917fbe89c) |
+|:--:|
+| <sub>Image 1</sub> |
 
-<img width="592" alt="zoom7" src="https://github.com/mohammad-awad-ds/Solar_Panel_Detection_Mapping_Satalite_YOLOv5/assets/64756947/0a721057-1f84-4956-8d47-978851ea3fec">
+| ![zoom7](https://github.com/mohammad-awad-ds/Solar_Panel_Detection_Mapping_Satalite_YOLOv5/assets/64756947/0a721057-1f84-4956-8d47-978851ea3fec) |
+|:--:|
+| <sub>Image 2</sub> |
 
-<img width="282" alt="zoom8" src="https://github.com/mohammad-awad-ds/Solar_Panel_Detection_Mapping_Satalite_YOLOv5/assets/64756947/76a9cce2-3c3e-4b69-b971-935d93f6203f">
-
+| ![zoom8](https://github.com/mohammad-awad-ds/Solar_Panel_Detection_Mapping_Satalite_YOLOv5/assets/64756947/76a9cce2-3c3e-4b69-b971-935d93f6203f) |
+|:--:|
+| <sub>Image 3</sub> |
 
 Note: The data used in this project is for demonstrative purpouses only, and is not intended for commercial use. The person using this code is solely responsible for gaining the permission and consent from the data owner/s for training and using the model.
