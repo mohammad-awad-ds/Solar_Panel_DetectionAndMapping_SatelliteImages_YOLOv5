@@ -34,4 +34,4 @@ Final result of the project is an interactive map that indicates if a block cont
 |:--:|
 | <sub>Image 3: Further zoom out clusters the areas further, and clearly shows the line separating east and west Amman. </sub> |
 
-Note: The data used in this project is for demonstrative purpouses only, and is not intended for commercial use. The person using this code is solely responsible for gaining the permission and consent from the data owner/s for training and using the model.
+Note: The data used in this project is for demonstrative purpouses only, and is not intended for commercial use. However uses this code or any informaiton displayed is solely responsible for gaining the permission and consent from the data owner/s for training and using the model.
