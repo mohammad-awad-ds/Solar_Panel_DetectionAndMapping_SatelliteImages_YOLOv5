@@ -20,5 +20,10 @@ The insights brought to light by this application can be used for:
 - Offer solar panel maintainance companies the visibility over the location of solar panels in the city of Amman to better sell their services.
 - Monitor weekly/monthly growth of solar panels across the city to gauge market demand by scheduling a rerun of this application (pipeline).
 
+Final result of the project is an interactive map that indicates if a block contains any PV solar panels in it, sample images are found below:
+<img width="354" alt="zoom5" src="https://github.com/mohammad-awad-ds/Solar_Panel_Detection_Mapping_Satalite_YOLOv5/assets/64756947/06e867c3-7ecb-4f55-bb98-446917fbe89c">
+<img width="592" alt="zoom7" src="https://github.com/mohammad-awad-ds/Solar_Panel_Detection_Mapping_Satalite_YOLOv5/assets/64756947/0a721057-1f84-4956-8d47-978851ea3fec">
+<img width="282" alt="zoom8" src="https://github.com/mohammad-awad-ds/Solar_Panel_Detection_Mapping_Satalite_YOLOv5/assets/64756947/76a9cce2-3c3e-4b69-b971-935d93f6203f">
+
 
 Note: The data used in this project is for demonstrative purpouses only, and is not intended for commercial use. The person using this code is solely responsible for gaining the permission and consent from the data owner/s for training and using the model.
