@@ -1,4 +1,4 @@
-# Solar_Panel_Detection_Mapping_Satalite_YOLOv5 (This ReadME is a work in progress)
+# Mapping Solar Panels in Amman Using Satellite Imagery: A Data-Driven Object Detection Approach
 This is an end-to-end real world computer vision project for the detection and mapping of solar panels in the city of Amman. 
 
 # Tools
