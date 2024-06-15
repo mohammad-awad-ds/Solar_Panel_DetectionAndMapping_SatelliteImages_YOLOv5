@@ -24,14 +24,14 @@ Final result of the project is an interactive map that indicates if a block cont
 
 | ![zoom5](https://github.com/mohammad-awad-ds/Solar_Panel_Detection_Mapping_Satalite_YOLOv5/assets/64756947/06e867c3-7ecb-4f55-bb98-446917fbe89c) |
 |:--:|
-| <sub>Image 1</sub> |
+| <sub>Image 1: Zoomed into the map to showcase pins placed on top of the areas with solar panels installed as detected by the trained model. </sub> |
 
 | ![zoom7](https://github.com/mohammad-awad-ds/Solar_Panel_Detection_Mapping_Satalite_YOLOv5/assets/64756947/0a721057-1f84-4956-8d47-978851ea3fec) |
 |:--:|
-| <sub>Image 2</sub> |
+| <sub>Image 2: Zooming out shows clusters with the number of detected areas containing solar panels summarized within them. </sub> |
 
 | ![zoom8](https://github.com/mohammad-awad-ds/Solar_Panel_Detection_Mapping_Satalite_YOLOv5/assets/64756947/76a9cce2-3c3e-4b69-b971-935d93f6203f) |
 |:--:|
-| <sub>Image 3</sub> |
+| <sub>Image 3: Further zoom out clusters the areas further, and clearly shows the line separating east and west Amman. </sub> |
 
 Note: The data used in this project is for demonstrative purpouses only, and is not intended for commercial use. The person using this code is solely responsible for gaining the permission and consent from the data owner/s for training and using the model.
